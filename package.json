@@ -1,0 +1,17 @@
+{
+  "name": "koa-trufflebox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "truffle test test/*"
+  },
+  "keywords": [],
+  "author": "Manjeet Thadani <manjeet.thadani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
