@@ -20,7 +20,7 @@ npm install -g ganache-cli
 2. Download the box. This also takes care of installing the necessary dependencies.
 
 ```
-truffle unbox manjeet/koa-box
+truffle unbox manjeet-thadani/koa-trufflebox
 
 ```
 
