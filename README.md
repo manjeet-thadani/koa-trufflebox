@@ -3,6 +3,12 @@ A truffle box to serve as the foundation of any Truffle and Koa.js dApp.
 
 This Box Uses NodeJS(Koa JS) to provide API endpoints to the Ethereum Blockchain smart contract so that this smart contract can be used in Android/Ios Apps as well.
 
+- Production grade lightweight JSON based logging utility
+- configurable env's based on current NODE_ENV
+- Error handling middlewares
+- Easily pluggable controllers and routers
+- The project structure is highly modular and can be directly used or extended for production purpose
+
 **Pre-Requisites**
 1. [NodeJS](https://nodejs.org/en/)
 2. [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) Or [NPM](https://www.npmjs.com/get-npm)
